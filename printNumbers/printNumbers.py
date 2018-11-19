@@ -49,7 +49,10 @@ functionTable = { CONST_FUNC_CODE_FIBONACCI : FibonacciSequence,
 
 #
 # MAIN ENTRY
+
 #
+
+print('New Stuff')
 if __name__ == '__main__':
     print('')
     print(CONST_VERSION_STRING)
